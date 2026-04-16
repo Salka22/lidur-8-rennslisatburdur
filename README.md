@@ -1,2 +1,2 @@
-# lidur-8-rennslisatburdur
-Greining á rennslisatburði í Norðurá
+Rennslisatburður - Norðurá
+Greining á rennslisatburði í Norðurá (desember 2006).
